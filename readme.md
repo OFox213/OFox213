@@ -6,4 +6,4 @@
 ## Social
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@OFox213) 
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://github.com/OFox213/OFox213/blob/main/github-metrics.svg)
